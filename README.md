@@ -67,7 +67,26 @@ Com base na análise de dados, a recomendação oficial para o *stakeholder* é 
 ## 📈 Visualizações
 
 <img width="659" height="393" alt="image" src="https://github.com/user-attachments/assets/362a2b16-cad2-46a1-85db-a8966afec3ff" />
+
 *Comparativo de faturamento demonstrando o desempenho inferior da Loja 4.*
+
+<br>
+
+<img width="640" height="350" alt="image" src="https://github.com/user-attachments/assets/236f5282-dfdb-4434-9ef0-7bb8de72715d" />
+
+*Distribuição percentual do faturamento por loja.*
+
+<br>
+
+<img width="587" height="456" alt="image" src="https://github.com/user-attachments/assets/b978c957-840c-49bc-ba8c-5141fa5b0634" />
+
+*Nível de satisfação média dos clientes por loja*
+
+<br>
+
+<img width="603" height="455" alt="image" src="https://github.com/user-attachments/assets/31bec7b4-ebed-45c5-b94e-857a204ab1a4" />
+
+*Valor do frete médio por loja em R$*
 
 ---
 
