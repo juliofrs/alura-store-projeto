@@ -23,7 +23,7 @@ Identificar, através de dados quantitativos e qualitativos, a loja com pior per
 
 * **Python:** Linguagem base para análise.
 * **Pandas:** Carregamento de dados (ETL), limpeza e manipulação de DataFrames.
-* **Matplotlib/Seaborn:** Visualização de dados para criação de gráficos comparativos.
+* **Matplotlib:** Visualização de dados para criação de gráficos comparativos.
 * **Jupyter Notebook:** Ambiente de desenvolvimento e documentação.
 
 ---
@@ -65,6 +65,8 @@ Com base na análise de dados, a recomendação oficial para o *stakeholder* é 
 ---
 
 ## 📈 Visualizações
+
+<img width="659" height="393" alt="image" src="https://github.com/user-attachments/assets/362a2b16-cad2-46a1-85db-a8966afec3ff" />
 
 *[Insira aqui uma imagem do gráfico de Faturamento por Loja]*
 *Comparativo de faturamento demonstrando o desempenho inferior da Loja 4.*
