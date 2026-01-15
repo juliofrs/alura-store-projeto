@@ -67,7 +67,6 @@ Com base na análise de dados, a recomendação oficial para o *stakeholder* é 
 ## 📈 Visualizações
 
 <img width="659" height="393" alt="image" src="https://github.com/user-attachments/assets/362a2b16-cad2-46a1-85db-a8966afec3ff" />
-
 *Comparativo de faturamento demonstrando o desempenho inferior da Loja 4.*
 
 ---
