@@ -68,15 +68,14 @@ Com base na análise de dados, a recomendação oficial para o *stakeholder* é 
 
 <img width="659" height="393" alt="image" src="https://github.com/user-attachments/assets/362a2b16-cad2-46a1-85db-a8966afec3ff" />
 
-*[Insira aqui uma imagem do gráfico de Faturamento por Loja]*
 *Comparativo de faturamento demonstrando o desempenho inferior da Loja 4.*
 
 ---
 
 ## 🙋‍♂️ Autor
 
-Feito por [Seu Nome].
+Feito por Julio Freitas.
 Entre em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliofrs) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliofreitaspro@gmail.com)
